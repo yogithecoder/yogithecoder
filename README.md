@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @yogithecoder
 - 👀 I’m interested in Programming, Problem Solving and Web Development
-- 🌱 I’m currently learning more SQL, Stacks of Web Development, Python Programming and Java.
+- 🌱 I’m currently learning more SQL, Reactjs , Python Programming and Java.
 - 💞️ I’m looking forward to work as an internship in Web development, Software Development, also as Data analyst 
 - 📫 You can reach me through Linked in : https://www.linkedin.com/in/yogesh-parmar-774647192/
 
